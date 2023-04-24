@@ -1,0 +1,149 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ParcelManagementSystemMVC
+build_property.RootNamespace = ParcelManagementSystemMVC
+build_property.ProjectDir = C:\Users\bisha\OneDrive\Desktop\codeology\ParcelManagementSystem\ParcelManagementSystem\ParcelManagementSystemMVC\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\bisha\OneDrive\Desktop\codeology\ParcelManagementSystem\ParcelManagementSystem\ParcelManagementSystemMVC
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/bisha/OneDrive/Desktop/codeology/ParcelManagementSystem/ParcelManagementSystem/ParcelManagementSystemMVC/Views/AdminUser/AccessAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Vc2VyXEFjY2Vzc0FkbWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bisha/OneDrive/Desktop/codeology/ParcelManagementSystem/ParcelManagementSystem/ParcelManagementSystemMVC/Views/AdminUser/AddBranch/AddBranch.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Vc2VyXEFkZEJyYW5jaFxBZGRCcmFuY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bisha/OneDrive/Desktop/codeology/ParcelManagementSystem/ParcelManagementSystem/ParcelManagementSystemMVC/Views/AdminUser/AddBranch/BranchList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Vc2VyXEFkZEJyYW5jaFxCcmFuY2hMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bisha/OneDrive/Desktop/codeology/ParcelManagementSystem/ParcelManagementSystem/ParcelManagementSystemMVC/Views/AdminUser/AddBranch/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Vc2VyXEFkZEJyYW5jaFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bisha/OneDrive/Desktop/codeology/ParcelManagementSystem/ParcelManagementSystem/ParcelManagementSystemMVC/Views/AdminUser/AddBranch/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Vc2VyXEFkZEJyYW5jaFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bisha/OneDrive/Desktop/codeology/ParcelManagementSystem/ParcelManagementSystem/ParcelManagementSystemMVC/Views/AdminUser/AddBranch/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Vc2VyXEFkZEJyYW5jaFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bisha/OneDrive/Desktop/codeology/ParcelManagementSystem/ParcelManagementSystem/ParcelManagementSystemMVC/Views/AdminUser/AddRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Vc2VyXEFkZFJvbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bisha/OneDrive/Desktop/codeology/ParcelManagementSystem/ParcelManagementSystem/ParcelManagementSystemMVC/Views/AdminUser/AddUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Vc2VyXEFkZFVzZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bisha/OneDrive/Desktop/codeology/ParcelManagementSystem/ParcelManagementSystem/ParcelManagementSystemMVC/Views/AdminUser/DashBoard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Vc2VyXERhc2hCb2FyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bisha/OneDrive/Desktop/codeology/ParcelManagementSystem/ParcelManagementSystem/ParcelManagementSystemMVC/Views/AdminUser/RoleList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Vc2VyXFJvbGVMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bisha/OneDrive/Desktop/codeology/ParcelManagementSystem/ParcelManagementSystem/ParcelManagementSystemMVC/Views/AdminUser/UserList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Vc2VyXFVzZXJMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bisha/OneDrive/Desktop/codeology/ParcelManagementSystem/ParcelManagementSystem/ParcelManagementSystemMVC/Views/Home/Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bisha/OneDrive/Desktop/codeology/ParcelManagementSystem/ParcelManagementSystem/ParcelManagementSystemMVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bisha/OneDrive/Desktop/codeology/ParcelManagementSystem/ParcelManagementSystem/ParcelManagementSystemMVC/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bisha/OneDrive/Desktop/codeology/ParcelManagementSystem/ParcelManagementSystem/ParcelManagementSystemMVC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bisha/OneDrive/Desktop/codeology/ParcelManagementSystem/ParcelManagementSystem/ParcelManagementSystemMVC/Views/Home/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bisha/OneDrive/Desktop/codeology/ParcelManagementSystem/ParcelManagementSystem/ParcelManagementSystemMVC/Views/Home/TrackParcelPublic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUcmFja1BhcmNlbFB1YmxpYy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bisha/OneDrive/Desktop/codeology/ParcelManagementSystem/ParcelManagementSystem/ParcelManagementSystemMVC/Views/Parcel/AddParcel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyY2VsXEFkZFBhcmNlbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bisha/OneDrive/Desktop/codeology/ParcelManagementSystem/ParcelManagementSystem/ParcelManagementSystemMVC/Views/Parcel/DashBoard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyY2VsXERhc2hCb2FyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bisha/OneDrive/Desktop/codeology/ParcelManagementSystem/ParcelManagementSystem/ParcelManagementSystemMVC/Views/Parcel/HistoryParcel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyY2VsXEhpc3RvcnlQYXJjZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bisha/OneDrive/Desktop/codeology/ParcelManagementSystem/ParcelManagementSystem/ParcelManagementSystemMVC/Views/Parcel/ParcelList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyY2VsXFBhcmNlbExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bisha/OneDrive/Desktop/codeology/ParcelManagementSystem/ParcelManagementSystem/ParcelManagementSystemMVC/Views/Parcel/Setting.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyY2VsXFNldHRpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bisha/OneDrive/Desktop/codeology/ParcelManagementSystem/ParcelManagementSystem/ParcelManagementSystemMVC/Views/Parcel/TrackParcel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyY2VsXFRyYWNrUGFyY2VsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bisha/OneDrive/Desktop/codeology/ParcelManagementSystem/ParcelManagementSystem/ParcelManagementSystemMVC/Views/Parcel/UpdateParcelStatus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyY2VsXFVwZGF0ZVBhcmNlbFN0YXR1cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bisha/OneDrive/Desktop/codeology/ParcelManagementSystem/ParcelManagementSystem/ParcelManagementSystemMVC/Views/Shared/AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bisha/OneDrive/Desktop/codeology/ParcelManagementSystem/ParcelManagementSystem/ParcelManagementSystemMVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bisha/OneDrive/Desktop/codeology/ParcelManagementSystem/ParcelManagementSystem/ParcelManagementSystemMVC/Views/Shared/PublicLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFB1YmxpY0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bisha/OneDrive/Desktop/codeology/ParcelManagementSystem/ParcelManagementSystem/ParcelManagementSystemMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bisha/OneDrive/Desktop/codeology/ParcelManagementSystem/ParcelManagementSystem/ParcelManagementSystemMVC/Views/User/AddUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxBZGRVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bisha/OneDrive/Desktop/codeology/ParcelManagementSystem/ParcelManagementSystem/ParcelManagementSystemMVC/Views/User/UserList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxVc2VyTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bisha/OneDrive/Desktop/codeology/ParcelManagementSystem/ParcelManagementSystem/ParcelManagementSystemMVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bisha/OneDrive/Desktop/codeology/ParcelManagementSystem/ParcelManagementSystem/ParcelManagementSystemMVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bisha/OneDrive/Desktop/codeology/ParcelManagementSystem/ParcelManagementSystem/ParcelManagementSystemMVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1zmfhbwvpm
